@@ -64,8 +64,9 @@ i{
 }
 
 .box_beneficios{
-    display: inline-block;
-    width: 300px;
+    display: inline-block;    
+    width: 250px;
+    height: 200px;
     text-align: center;
     border: #333333 1px solid;
     margin: 10px;
@@ -79,4 +80,10 @@ i{
 
 .cleanner {
     clear: both;
+}
+
+.passo-passo{
+    background-color: crimson;
+    color: azure;
+    align-items: center;
 }
