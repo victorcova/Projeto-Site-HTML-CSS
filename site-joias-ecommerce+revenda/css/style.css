@@ -83,13 +83,14 @@ i{
     text-align: center;   
 }
 
-.info-novidades{
-    
+.menu{
+    position: relative;    
     background-color: crimson;
     padding: 22px;
     font-size: 15px;
     text-align: center;    
-    color: azure;        
+    color: azure;       
+    z-index: 5; 
 }
 
 .redbold{
