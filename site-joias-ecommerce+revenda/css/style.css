@@ -9,6 +9,7 @@ html {
   }
 
 body{
+    display: grid;
     font-family: Lato,sans-serif;
     font-weight: normal;
     margin: 0px;
